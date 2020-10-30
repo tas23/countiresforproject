@@ -1,0 +1,172 @@
+[
+	{
+		"city": "Tokyo",
+    "latitude": 35.6762, 
+		"longitude": 139.6503,
+    "max": 30.0,
+		"min": 10.0
+	}, 
+
+	{
+		"city": "Hokkaido",
+    "latitude": 43.2203, 
+		"longitude": 142.8635,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Sapporo",
+    "latitude": 29.7604267, 
+		"longitude": 141.3545,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Kanagawa",
+    "latitude": 35.4914, 
+		"longitude": 139.2841,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Kyoto",
+    "latitude": 35.0116, 
+		"longitude":  135.7681,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Shinjuku City",
+    "latitude": 35.69389, 
+		"longitude": 139.7034,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Osaka",
+    "latitude": 34.6937, 
+		"longitude": 135.5023,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Fukuoka",
+    "latitude": 33.5902, 
+		"longitude": 130.4017,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Nagoya",
+    "latitude": 35.1815, 
+		"longitude": 136.9066,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Ikebukuro",
+    "latitude": 35.7348, 
+		"longitude": 139.7077,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	
+	{
+		"city": "Akihabara",
+    "latitude": 35.7023, 
+		"longitude": 139.7745,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Ueno",
+    "latitude": 35.7087, 
+		"longitude": 139.7742,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Ebisu",
+    "latitude": 35.6461, 
+		"longitude": 139.7154,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Satitama",
+    "latitude": 35.8616, 
+		"longitude": 139.6455,
+    "max": 23.0,
+				"min": 10.0
+
+	}, 
+	{
+		"city": "Kawaguchi",
+    "latitude": 35.8077, 
+		"longitude": 139.7242,
+    "max": 23.0,
+				"min": 10.0
+
+	},
+	{
+		"city": "Kobe",
+    "latitude": 34.6901, 
+		"longitude": 135.1956,
+    "max": 23.0,
+				"min": 10.0
+
+	},
+		{
+		"city": "Sagamihara",
+    "latitude": 35.5713, 
+		"longitude": 139.3734,
+    "max": 23.0,
+				"min": 10.0
+
+	},
+		{
+		"city": "Karuizawa",
+    "latitude": 36.3484, 
+		"longitude": 138.5970,
+    "max": 23.0,
+				"min": 10.0
+
+	},
+		{
+		"city": "Karuizawa",
+    "latitude": 36.3484, 
+		"longitude": 138.5970,
+    "max": 23.0,
+				"min": 10.0
+
+	},
+		{
+		"city": "Nagano",
+    "latitude": 36.1544, 
+		"longitude": 137.9218,
+    "max": 23.0,
+				"min": 10.0
+
+	},
+	},
+		{
+		"city": "Kamakura",
+    "latitude": 35.3192, 
+		"longitude": 139.5467,
+    "max": 23.0,
+				"min": 10.0
+
+	},
+	]
